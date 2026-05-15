@@ -2,7 +2,7 @@
 
 An AI-powered web application that detects the stage of Diabetic Retinopathy from retinal fundus images using a custom Deep Learning CNN model.
 
-🔗 **Live Demo**: [huggingface.co/spaces/chashvith/bio-proj](https://huggingface.co/spaces/chashvith/bio-proj)
+🔗 **Live Demo**: [huggingface.co/spaces/chashvith/bio-proj](https://chashvith-bio-proj.hf.space/)
 
 ---
 
