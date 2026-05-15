@@ -92,9 +92,3 @@ streamlit run app.py
 
 This project is for **educational purposes only**. It is not a substitute for professional medical diagnosis. Always consult a qualified ophthalmologist for eye health concerns.
 
----
-
-## 👨‍💻 Author
-
-- HuggingFace: [huggingface.co/chashvith](https://huggingface.co/chashvith)
-- GitHub: [github.com/chashvith](https://github.com/chashvith)
